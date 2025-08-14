@@ -9,6 +9,7 @@
 		<version>3.4.8</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
+	
 	<groupId>com</groupId>
 	<artifactId>mbblab3</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
